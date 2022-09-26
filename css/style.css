@@ -3501,6 +3501,9 @@ button[type="submit"] i {
     background-color: rgba(0, 0, 0, 0);
     height: 100vh;
   }
+  .button-prev, .button-next{
+    display: none;
+  }
   /* END NEW */
 
   .slider .slider-nav.container-fluid {
