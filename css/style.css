@@ -3496,15 +3496,7 @@ button[type="submit"] i {
     display: none;
   }
   
-/* NEW */
-  .swiper-slide{
-    background-color: rgba(0, 0, 0, 0);
-    height: 100vh;
-  }
-  .button-prev, .button-next{
-    display: none;
-  }
-  /* END NEW */
+
 
   .slider .slider-nav.container-fluid {
     margin-top: -70px;
@@ -3774,6 +3766,17 @@ button[type="submit"] i {
   .footer .footer-bottom .creation {
     width: 100%;
   }
+
+  /* NEW */
+  .swiper-slide{
+    background-color: rgba(0, 0, 0, 0);
+    height: 100vh;
+  }
+  .button-prev, .button-next{
+    display: none!important;
+  }
+  /* END NEW */
+
 }
 
 /* NEW CODES */
