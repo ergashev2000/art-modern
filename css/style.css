@@ -3768,7 +3768,7 @@ button[type="submit"] i {
   }
 
   /* NEW */
-  .swiper-slide{
+  .mask{
     background-color: rgba(0, 0, 0, 0);
     height: 100vh;
   }
